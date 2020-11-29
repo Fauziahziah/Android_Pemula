@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Github UserS</string>
+    <string name="github_name">github_name</string>
+    <string name="description">description</string>
+    <string name="list">List</string>
+    <string name="username">username</string>
+    <string name="seacrh_hint">Search in Github Users</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text2">Following</string>
+    <string name="menu_1">menu_1</string>
+    <string name="seacrh">seacrh</string>
+    <string name="desfollowers">desfollowers</string>
+    <string name="github_followers">github_followers</string>
+    <string name="change_language" translatable="false">change language</string>
+    <string name="name">name</string>
+
+</resources>
